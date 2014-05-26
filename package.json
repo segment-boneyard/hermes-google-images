@@ -1,0 +1,22 @@
+{
+  "name": "hermes-google-images",
+  "description": "A Hermes plugin for searching google images.",
+  "repository": "git://github.com/segmentio/hermes-google-images.git",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {
+    "pickrand": "0.0.2",
+    "superagent": "^0.18.0"
+  },
+  "devDependencies": {
+    "mocha": "1.x",
+    "hermes": "0.x"
+  },
+  "keywords": [
+    "hermes",
+    "plugin",
+    "chat",
+    "hubot"
+  ]
+}
